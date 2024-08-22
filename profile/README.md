@@ -1,2 +1,2 @@
-## current projects:
-<img src="https://tenor.com/view/adventure-time-virus-malware-distant-lands-nightosphere-gif-10326481586918612266" height="256">
+<img src="https://media.tenor.com/BqbIhT4Mb7IAAAAd/adventure-time-virus.gif" height="256" alt="Adventure Time virus GIF">
+
