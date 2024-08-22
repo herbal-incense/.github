@@ -1,1 +1,2 @@
-![Adventure Time virus GIF](https://media.tenor.com/BqbIhT4Mb7IAAAAd/adventure-time-virus.gif)
+## current projects
+<img src="adventure-time-virus.gif" height="256">
